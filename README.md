@@ -14,7 +14,7 @@ By taking part in the experiment, you provide your consent for the recording. Yo
 **Instructions**
 You will be provided with a data science task, of verifying a hypothesis based on the given dataset. Please implement your solution using Python, inside a Jupyter Notebook. You will have 90 minutes for the implementation of the solution. Please keep in mind the following points:
 
--> Avoid actively curating (cleaning, deleting) your code during the development and leave them as it is. You will have at the end of the task 30 minutes to clean your code and produce a final version. 
+-> Avoid actively cleaning and curating (modifying, replacing, deleting) your code during the development and leave them as it is. You will have at the end of the task 30 minutes to clean your code and produce a final version. 
 
 -> Imagine that you will be sharing your solution notebook with your colleagues at the end of the day.
 
