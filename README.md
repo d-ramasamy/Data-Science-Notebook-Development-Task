@@ -15,13 +15,18 @@ By taking part in the experiment, you provide your consent for the recording. Yo
 You will be provided with a data science task, of verifying a hypothesis based on the given dataset. Please implement your solution using Python, inside a Jupyter Notebook. You will have 90 minutes for the implementation of the solution. Please keep in mind the following points:
 
 -> Avoid actively curating (cleaning, deleting) your code during the development and leave them as it is. You will have at the end of the task 30 minutes to clean your code and produce a final version. 
+
 -> Imagine that you will be sharing your solution notebook with your colleagues at the end of the day.
+
 -> Please share your thoughts and rationale when designing and implementing your code by thinking aloud during this process in order for us to record your thoughts. 
 
 **Task**
 Title: Compare housing and rental prices in five major cities on the United States’ west coast.
+
 Dataset: https://www.kaggle.com/zillow/zecon
+
 Data files: ‘data/data_dictionary.csv', 'data/city_time_series.csv', 'data/cities_crosswalk.csv'
+
 Description of the variables can be found in: ‘data_dictionary.csv'
 
 Hypothesis to be tested: “Housing and rental prices in five major cities on the United States’ west coast are correlated”.
