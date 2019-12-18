@@ -21,6 +21,7 @@ You will be provided with a data science task, of verifying a hypothesis based o
 -> Please share your thoughts and rationale when designing and implementing your code by thinking aloud during this process in order for us to record your thoughts. 
 
 **Task**
+
 Title: Compare housing and rental prices in five major cities on the United States’ west coast.
 
 Dataset: https://www.kaggle.com/zillow/zecon
@@ -31,4 +32,4 @@ Description of the variables can be found in: ‘data_dictionary.csv'
 
 Hypothesis to be tested: “Housing and rental prices in five major cities on the United States’ west coast are correlated”.
 
-Google colab file where the code should be implemented will be shared with you.
+Google colab file where the code should be implemented will be shared separately with you.
