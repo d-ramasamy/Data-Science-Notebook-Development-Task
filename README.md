@@ -27,7 +27,7 @@ At the end of the experiment we will obtain the following things:
 * The final version of the code (in a Jupyter notebook) produced by the data scientist
 * Your final observations about the task and the solution produced
 
-**Your data science task**
+**Your data science task is the following:**
 
 * Compare housing and rental prices in five major cities on the United States’ west coast.
 
