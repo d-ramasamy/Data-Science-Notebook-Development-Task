@@ -6,20 +6,20 @@ The task requires you to solve a data science task in an interview style using J
 
 By taking part in the experiment, you provide your consent for the recording. You will require ~ 2-3 hours in total to complete this task.
 
-Instructions: 
+**Instructions**
 
 You will be given:
 
-    A data set
-    A data science task that will require you to verify a hypothesis on the given dataset
+* A data set
+* A data science task that will require you to verify a hypothesis on the given dataset
 
 You will need to: 
 
-    solve the data science task implementing your code in Python, inside a Jupyter Notebook.
-    develop your solution in max 90 minutes.
-    avoid cleaning your code during the development time. You will have additional 30 minutes (at the end) to clean your code and * produce a final version of it. We would like to specifically separate these two steps of developing and cleaning the code.
-    share your thoughts while coding, and explain what you are doing and why you are doing it.
-    think of multiple paths in the analysis of the data, you are allowed and encouraged to think of different forks. 
+* solve the data science task implementing your code in Python, inside a Jupyter Notebook.
+* develop your solution in max 90 minutes.
+* avoid cleaning your code during the development time. You will have additional 30 minutes (at the end) to clean your code and produce a final version of it. We would like to specifically separate these two steps of developing and cleaning the code.
+* share your thoughts while coding, and explain what you are doing and why you are doing it.
+* think of multiple paths in the analysis of the data, you are allowed and encouraged to think of different forks. 
 
 At the end of the experiment we will obtain the following things: 
 
