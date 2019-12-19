@@ -25,11 +25,11 @@ At the end of the experiment we will obtain the following things:
 
     The audio & video recording of the data scientist thinking aloud while coding in screen-sharing mode
 
-Snapshots of the code produced by the data scientist (captured every ~2 minutes)
+Snapshots of the code produced by the data scientist (captured every ~1 minute)
 
     The final version of the code (in a Jupyter notebook) produced by the data scientist
 
-* Your data science task *
+**Your data science task**
 
 Compare housing and rental prices in five major cities on the United States’ west coast.
 
