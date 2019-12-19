@@ -6,7 +6,7 @@ The task requires you to solve a data science task in an interview style using J
 
 By taking part in the experiment, you provide your consent for the recording. You will require ~ 2-3 hours in total to complete this task.
 
-**Instructions**
+**---Instructions---**
 
 You will be given:
 
@@ -31,14 +31,14 @@ Snapshots of the code produced by the data scientist (captured every ~1 minute)
 
 **Your data science task**
 
-Compare housing and rental prices in five major cities on the United States’ west coast.
+* Compare housing and rental prices in five major cities on the United States’ west coast.
 
-Dataset: https://www.kaggle.com/zillow/zecon
+* Dataset: https://www.kaggle.com/zillow/zecon
 
-Raw data files: ‘data/data_dictionary.csv', 'data/city_time_series.csv', 'data/cities_crosswalk.csv'
+* Raw data files: ‘data/data_dictionary.csv', 'data/city_time_series.csv', 'data/cities_crosswalk.csv'
 
-A description of the variables can be found in: ‘data_dictionary.csv'
+* A description of the variables can be found in: ‘data_dictionary.csv'
 
-Hypothesis to be tested: “Housing and rental prices in five major cities on the United States’ west coast are correlated”.
+* Hypothesis to be tested: “Housing and rental prices in five major cities on the United States’ west coast are correlated”.
 
 We will share the notebook (where you can implement the solution) with you.
