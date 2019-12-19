@@ -29,7 +29,7 @@ At the end of the experiment we will obtain the following things:
 
 **Your data science task is the following:**
 
-* Compare housing and rental prices in five major cities on the United States’ west coast.
+* Compare housing and rental prices in five major cities on the United States’ west coast. Five major cities in this task are:     Seattle, Portland, San Francisco, Los Angeles, San Diego.
 
 * Dataset: https://www.kaggle.com/zillow/zecon
 
