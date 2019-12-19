@@ -22,12 +22,10 @@ You will need to:
 * think of multiple paths in the analysis of the data, you are allowed and encouraged to think of different forks. 
 
 At the end of the experiment we will obtain the following things: 
-
-    The audio & video recording of the data scientist thinking aloud while coding in screen-sharing mode
-
-Snapshots of the code produced by the data scientist (captured every ~1 minute)
-
-    The final version of the code (in a Jupyter notebook) produced by the data scientist
+* The audio & video recording of the data scientist thinking aloud while coding in screen-sharing mode
+* Snapshots of the code produced by the data scientist (captured every ~1 minute)
+* The final version of the code (in a Jupyter notebook) produced by the data scientist
+* Your final observations about the task and the solution produced
 
 **Your data science task**
 
