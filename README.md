@@ -1,3 +1,5 @@
+Welcome to the upwork task:
+
 This is an experiment to understand the development process that data scientists follow, when solving a data science-related task.
 
 The task requires you to solve a data science task in an interview style using Jupyter notebook and Python as a programming language. That is, you will be asked to follow a 'thinking-aloud' strategy while solving the task, sharing your thoughts and code design rationale when implementing your code. The experiment will be recorded in Skype and only used for research purposes. The video recording will not be published. 
@@ -17,6 +19,7 @@ You will need to:
     develop your solution in max 90 minutes.
     avoid cleaning your code during the development time. You will have additional 30 minutes (at the end) to clean your code and * produce a final version of it. We would like to specifically separate these two steps of developing and cleaning the code.
     share your thoughts while coding, and explain what you are doing and why you are doing it.
+    think of multiple paths in the analysis of the data, you are allowed and encouraged to think of different forks. 
 
 At the end of the experiment we will obtain the following things: 
 
