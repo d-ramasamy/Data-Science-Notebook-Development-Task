@@ -33,7 +33,9 @@ At the end of the experiment we will obtain the following things:
 
 * Dataset: https://www.kaggle.com/zillow/zecon
 
-* Raw data files: ‘data/data_dictionary.csv', 'data/city_time_series.csv', 'data/cities_crosswalk.csv'
+* Raw data files: ‘data/data_dictionary.csv', 'data/cities_crosswalk.csv' 
+  and 
+  'western_states_time_series.csv' (separately provided by us)
 
 * A description of the variables can be found in: ‘data_dictionary.csv'
 
