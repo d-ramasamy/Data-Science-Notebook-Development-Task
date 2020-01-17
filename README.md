@@ -16,7 +16,7 @@ You will be given:
 You will need to: 
 
 * solve the data science task implementing your code in Python, inside a Jupyter Notebook.
-* develop your solution in max 90 minutes.
+* develop your solution in 90 minutes (max 130 minutes).
 * avoid cleaning your code during the development time. You will have additional 30 minutes (at the end) to clean your code and produce a final version of it. We would like to specifically separate these two steps of developing and cleaning the code.
 * share your thoughts while coding, and explain what you are doing and why you are doing it.
 * think of multiple paths in the analysis of the data, you are allowed and encouraged to think of different forks. 
